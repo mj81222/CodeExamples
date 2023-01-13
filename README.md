@@ -10,5 +10,5 @@ HUGEN2072 - Genomic Data Pipelines and Tools
 * Project 5 - Differential Gene Expression
 
 HUGEN2073 - Genomic Data Visualization and Integration
-* Project 2 -
-* Project 5 -
+* Project 2 - Create Various Visualizations
+* Project 5 - Query UCSC Genome Browser (SQL) and Create Custome Track
