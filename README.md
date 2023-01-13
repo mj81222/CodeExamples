@@ -2,7 +2,7 @@
 
 This repository houses code I've previously written for various projects during my master's program. 
 
-My coding skills have improved significantly since writing this code, however, these tasks demonstrate my deep understanding of genomics concepts and statistics principles. I would love to share code written during my internship at Genentech or for my thesis project as those better showcase my coding abilities, however, they are on legal hold awaiting publication.
+I aim to demonstrate my deep understanding of genomics concepts and statistics principles through these projects. My coding skills have improved significantly since completion of these tasks almost a year ago. I would love to share more recent code written during my internship at Genentech or for my thesis project as those better showcase my coding abilities, however, they are on legal hold awaiting publication.
 
 **Hiring mangers: Check out the Google Drive video links for presentations of my projects for HUGEN2072!**
 
