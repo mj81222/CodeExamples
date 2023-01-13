@@ -2,6 +2,8 @@
 
 This repository houses code I've previously written for various projects during my master's program.
 
+**Hiring mangers: Check out the Google Drive video links for presentations of my projects for HUGEN2072!**
+
 HUGEN2072 - Genomic Data Pipelines and Tools
 * Project 1 - NGS Quality Control Pipeline (data cleaning prior to analyses)
 * Project 2 - Perform 2 GWAS and 1 GWAMA (GWAS meta-analysis)
