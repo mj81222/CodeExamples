@@ -15,4 +15,4 @@ HUGEN2072 - Genomic Data Pipelines and Tools
 
 HUGEN2073 - Genomic Data Visualization and Integration
 * Project 2 - Create Various Visualizations
-* Project 5 - Query UCSC Genome Browser (SQL) and Create Custome Track
+* Project 5 - Query UCSC Genome Browser (SQL) and Create Custom Track
